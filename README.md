@@ -1,4 +1,4 @@
-# Solin - No Recoil Application
+# Solin - No Recoil
 
 **Solin** is a versatile no recoil and rapid fire application that enhances your gaming experience by reducing recoil and providing various customization options. Whether you’re playing FPS games or other types of action games, Solin gives you the flexibility to adjust and fine-tune recoil settings, toggle rapid fire, and more.
 
